@@ -102,3 +102,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.ipynb_checkpoints/
+drive-download-20191002T113331Z-001

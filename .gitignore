@@ -103,6 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 .ipynb_checkpoints/
-backup/*
+backup/gcForest/*
 data_exploration/*
 senpai_code/*
